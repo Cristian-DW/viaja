@@ -1,4 +1,4 @@
-# viaja (Landing Page)
+# viaja (Landing Page) ✈️💻
 Bienvenido a Viaja, tu puerta de entrada a experiencias de viaje inolvidables. Esta landing page ha sido cuidadosamente diseñada con HTML, CSS y JavaScript para ofrecerte una plataforma intuitiva y visualmente atractiva.
 
 ## Capturas de Pantalla
@@ -21,7 +21,7 @@ Bienvenido a Viaja, tu puerta de entrada a experiencias de viaje inolvidables. E
 #### Clona el Repositorio:
 
 `
-git clone https://github.com/tuusuario/viaja.git 
+git clone https://github.com/cristian-dw/viaja.git 
 `
 
 #### Abre el Archivo Index.html:
