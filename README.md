@@ -1,5 +1,7 @@
 # viaja (Landing Page) ✈️💻
-Bienvenido a Viaja, tu puerta de entrada a experiencias de viaje inolvidables. Esta landing page ha sido cuidadosamente diseñada con HTML, CSS y JavaScript para ofrecerte una plataforma intuitiva y visualmente atractiva.
+
+¡Bienvenido a Viaja, tu puerta de entrada a experiencias de viaje inolvidables!
+Viaja es una landing page diseñada con esmero y dedicación para proporcionarte una plataforma intuitiva y visualmente atractiva. Con la combinación de HTML, CSS y JavaScript, hemos creado un espacio donde puedas explorar y descubrir nuevas aventuras de viaje de manera sencilla y emocionante.
 
 ## Capturas de Pantalla
 <img align="center" width="1000" src="https://github.com/Cristian-DW/layout/blob/main/viajaone.JPG" />
