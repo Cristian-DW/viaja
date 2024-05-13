@@ -19,16 +19,6 @@ Viaja es una landing page diseñada con esmero y dedicación para proporcionarte
 [¡Haz clic aquí! &#128640; ](https://viajaya.netlify.app/)
 
 
-## Cómo Empezar?
-#### Clona el Repositorio:
-
-`
-git clone https://github.com/cristian-dw/viaja.git 
-`
-
-#### Abre el Archivo Index.html:
-Abre el archivo index.html en tu navegador favorito y comienza tu viaje virtual.
-
 
 ¡Viaja y descubre el mundo de una manera completamente nueva! ✈️🌟
 
